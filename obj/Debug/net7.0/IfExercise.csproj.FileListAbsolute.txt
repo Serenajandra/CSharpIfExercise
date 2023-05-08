@@ -1,0 +1,15 @@
+C:\Users\seren\CsharpProjects\IfExercise\bin\Debug\net7.0\IfExercise.exe
+C:\Users\seren\CsharpProjects\IfExercise\bin\Debug\net7.0\IfExercise.deps.json
+C:\Users\seren\CsharpProjects\IfExercise\bin\Debug\net7.0\IfExercise.runtimeconfig.json
+C:\Users\seren\CsharpProjects\IfExercise\bin\Debug\net7.0\IfExercise.dll
+C:\Users\seren\CsharpProjects\IfExercise\bin\Debug\net7.0\IfExercise.pdb
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\IfExercise.csproj.AssemblyReference.cache
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\IfExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\IfExercise.AssemblyInfoInputs.cache
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\IfExercise.AssemblyInfo.cs
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\IfExercise.csproj.CoreCompileInputs.cache
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\IfExercise.dll
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\refint\IfExercise.dll
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\IfExercise.pdb
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\IfExercise.genruntimeconfig.cache
+C:\Users\seren\CsharpProjects\IfExercise\obj\Debug\net7.0\ref\IfExercise.dll
